@@ -1,5 +1,0 @@
-
-1- La clé primaire de la table Vol est de type texte alors que dans les insertions, les clés primaires sont de type de NUMBER
-
-2 - Le nombre de colonne de la table Vol est 7 mais dans les insertions, le nombre de colonne est 8. La dernière colonne dans les insertions
-qui contient les dates ne se trouve pas dans la structure de la table. J'ai dû ajouter cette colonne à la structure de la table afin de pouvoir faire les insertions.
